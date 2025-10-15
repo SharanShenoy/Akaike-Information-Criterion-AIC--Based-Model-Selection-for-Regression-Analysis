@@ -1,1 +1,1 @@
-# Akaike-Information-Criterion-AIC--Based-Model-Selection-for-Regression-Analysis
+# Akaike-Information-Criterion-Based-Model-Selection-for-Regression-Analysis
